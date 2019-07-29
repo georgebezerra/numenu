@@ -32,7 +32,7 @@ Faça o donwload do projeto e sigas as instruções abaixo:
 
 Instale as dependecias e execute:
 
-yarn install
+yarn install ou npm install
 
 
 Versions
