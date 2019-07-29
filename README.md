@@ -52,22 +52,22 @@ yarn install ou npm install
 
 4. Tests - npm run unit-test
 
-![Numenu Project](https://github.com/georgebezerra/numenu/blob/master/print/token-erro.png)
+![Numenu Project](https://github.com/georgebezerra/numenu/blob/master/print/unit-test.png)
 
 
 5. Tests - npm run integration-test
 
-![Numenu Project](https://github.com/georgebezerra/numenu/blob/master/print/token-erro.png)
+![Numenu Project](https://github.com/georgebezerra/numenu/blob/master/print/integration-test.png)
 
 
 6. Tests - npm run unit-coverage
 
-![Numenu Project](https://github.com/georgebezerra/numenu/blob/master/print/token-erro.png)
+![Numenu Project](https://github.com/georgebezerra/numenu/blob/master/print/unit-coverage.png)
 
 
 7. Tests - npm run integration-coverage
 
-![Numenu Project](https://github.com/georgebezerra/numenu/blob/master/print/token-erro.png)
+![Numenu Project](https://github.com/georgebezerra/numenu/blob/master/print/integration-coverage.png)
 
 
 Versions
