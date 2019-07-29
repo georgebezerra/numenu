@@ -47,7 +47,7 @@ yarn install ou npm install
 
 3. Postman - error token
 
-![Numenu Project](https://github.com/georgebezerra/numenu/blob/master/print/token-erro.png
+![Numenu Project](https://github.com/georgebezerra/numenu/blob/master/print/token-erro.png)
 
 
 Versions
