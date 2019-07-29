@@ -1,6 +1,6 @@
 TypeScript API Starter - Node + TypeScript + Sequelize + PostgreSQL
 
-Dependencias:
+**Dependencias**
 node
 npm
 typescript
