@@ -34,6 +34,11 @@ Instale as dependecias e execute:
 
 yarn install ou npm install
 
+**Iniciando o server**
+1. npm run start
+
+![Numenu Project](https://github.com/georgebezerra/numenu/blob/master/print/start.png)
+
 
 Versions
 v1.0
