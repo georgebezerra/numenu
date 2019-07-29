@@ -40,6 +40,16 @@ yarn install ou npm install
 ![Numenu Project](https://github.com/georgebezerra/numenu/blob/master/print/start.png)
 
 
+2. Postman - token
+
+![Numenu Project](https://github.com/georgebezerra/numenu/blob/master/print/token.png)
+
+
+3. Postman - error token
+
+![Numenu Project](https://github.com/georgebezerra/numenu/blob/master/print/token-erro.png
+
+
 Versions
 v1.0
 
